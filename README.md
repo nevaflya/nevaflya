@@ -3,13 +3,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nevaflya" alt="nevaflya" /></a> </p>
 
-- 🔭 I’m currently working on **-**
+- 🔭 I’m currently working on **my own website**
 
 - 🌱 I’m currently learning **frameworks**
 
 - 👯 I’m looking to collaborate on **creating web-sites**
 
-- 🤝 I’m looking for help with **-**
+- 🤝 I’m looking for help with **-none-**
 
 - 📫 How to reach me **feedback_mistya@outlook.com**
 
